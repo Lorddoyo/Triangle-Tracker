@@ -7,9 +7,10 @@
      <link href="https://fonts.googleapis.com/css?family=Courgette|Germania+One|Permanent+Marker|Sniglet" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Courgette|Germania+One|Permanent+Marker|Sniglet" rel="stylesheet">
     <link href ="css/style.css" rel ="stylesheet" type ="text/css">
+    <script src="javascript/scripts.js" type="text/javascript"></script>
   </head>
-     <div class="body">
-  <body>
+
+  <body class="body">
     <br>
     <br>
     <h1 id="head">TRIANGLE TRACKER</h1>
@@ -36,8 +37,8 @@
             If you want to confirm what type of triangle you are using just input your digts in the calculator below
           </div>.
           </p>
-          <form>
-            <div id="data">
+
+          <div id="data">
             <p>Side A:
                     <input type="text" id="a" placeholder="enter a number" value=""> </p>
             <p>Side B:
@@ -45,16 +46,12 @@
             <p>Side C:
                     <input type="text" id="c" placeholder="enter a number" value=""> </p>
 
-                    <button type="button" name="button" onclick="triangleTracker()">Calculate</button>
+                    <p id ="output"></p>
+
+                    <button name="button" onclick="triangleTracker()">Calculate</button>
                     <button id="type" type="reset">reset</button>
-            <p id = "output" > type = ? </p>
-          </div>
-          </form>
-        </div>
-        <div class="">
-    <h1 id="javaform"></h1>
-       </div>
-         <script src=".js/script.js" type="text/javascript"> </script>
+
+            </div>
   </body>
-</div>
+
 </html>
