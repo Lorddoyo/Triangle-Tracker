@@ -1,0 +1,56 @@
+#head{
+  text-align: center;
+  font-size: 45px;
+  font-family: 'Sniglet', cursive;
+}
+.body{
+  background-image: url('images/sarah.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+  width: 100%;
+  margin: 0px;
+  padding: 0px;
+  overflow-y: hidden;
+  overflow-x: hidden;
+}
+#triangle{
+  text-align: center;
+  border: 1px ;
+    padding: 30px;
+    margin: 50px;
+    font-size: 21px;
+    font-family: 'Permanent Marker', cursive;
+  }
+
+}
+.form{
+  text-align: center;
+}
+#output{
+  font-size: 30;
+font-family: 'Germania One', cursive;
+}
+#p{
+  text-align: center;
+  font-size: 21px;
+  font-family: 'Courgette', cursive;
+}
+#data{
+  text-align: center;
+  border: 1px  ;
+  padding: 50px;
+  margin: 100px;
+  font-family: 'Alfa Slab One', cursive;
+  font-size: 30px;
+
+
+
+}
+#hesab{
+  font-family: 'Alfa Slab One', cursive;
+  text-align: center;
+  font-size: 30;
+  font-family: 'Germania One', cursive;
+}
