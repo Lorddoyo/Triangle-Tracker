@@ -2,7 +2,7 @@
 #### { This is a website that has been made to help the user know if a polygon is a triangle }, {22 of march 2019}
 #### By **{LordDoyo}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have.This is a website that helps the user know if a polygon is a triangle .This application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.Based on the functionality of the application, it helps know if a triangle is either of this Equilateral ,isosceles or Scalene:
+{This is a website that helps the user know if a polygon is a triangle .This application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.Based on the functionality of the application, it helps know if a triangle is either of this Equilateral ,isosceles or Scalene:
 
 For an equilateral triangle, all sides must be equal.
 For an isosceles triangle, two sides are exactly equal.
