@@ -7,7 +7,8 @@
      <link href="https://fonts.googleapis.com/css?family=Courgette|Germania+One|Permanent+Marker|Sniglet" rel="stylesheet">
      <link href="https://fonts.googleapis.com/css?family=Alfa+Slab+One|Courgette|Germania+One|Permanent+Marker|Sniglet" rel="stylesheet">
     <link href ="css/style.css" rel ="stylesheet" type ="text/css">
-    <script src="javascript/scripts.js" type="text/javascript"></script>
+    <script src="css/javascript/scripts.js" type="text/javascript">
+    </script>
   </head>
 
   <body class="body">
@@ -37,7 +38,7 @@
             If you want to confirm what type of triangle you are using just input your digts in the calculator below
           </div>.
           </p>
-
+          <form>
           <div id="data">
             <p>Side A:
                     <input type="text" id="a" placeholder="enter a number" value=""> </p>
@@ -48,10 +49,11 @@
 
                     <p id ="output"></p>
 
-                    <button name="button" onclick="triangleTracker()">Calculate</button>
+                    <button id="track" type="button" onclick="triangleTracker()">calculate</button>
                     <button id="type" type="reset">reset</button>
 
             </div>
+          </form>
   </body>
 
 </html>
