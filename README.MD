@@ -1,27 +1,33 @@
-# {Triangle Tracker Website}
+# Triangle Tracker Website
 #### { This is a website that has been made to help the user know if a polygon is a triangle }, {22 of march 2019}
-#### By **{LordDoyo}**
-## Description
-{This is a website that helps the user know if a polygon is a triangle .This application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.Based on the functionality of the application, it helps know if a triangle is either of this Equilateral ,isosceles or Scalene:
+#### By _LordDoyo_
+
+# Description
+This is a website that helps the user know if a polygon is a triangle .This application that will help us know whether a triangle is isosceles, equilateral, scalene or NOT a triangle at all.Based on the functionality of the application, it helps know if a triangle is either of this Equilateral ,isosceles or Scalene:
 
 For an equilateral triangle, all sides must be equal.
 For an isosceles triangle, two sides are exactly equal.
 For a scalene triangle, none of the sides is equal. However, the sum of any two sides of the triangle must be greater than the third side.
-Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.) }
-## Setup/Installation Requirements
-1.Have a functional github account
-2.On my github profile ,select-my-portfolio
-3.fork the repository
-4.Access it on your github account
+Most importantly, if the sum of any two sides of the triangle is equal to or less than the third remaining side, then a triangle CANNOT be formed using those values. (For example, the values 9,4 & 3 cannot form a triangle.) 
+
+# Setup/Installation Requirements
+* Open your browser browser.
+* Load gitHub on your browser.
+* Search for Lorddoyo/.... repository.
+* Fork the data onto your own personal repository
+* [To access the live website, click here](https://lorddoyo.github.io/Triangle-Tracker)
 
 ## Known Bugs
-{so far so good.But incase you find a bug email me at johnkojo7777@gmail.com. }
+so far so good.But incase you find a bug email me at johnkojo7777@gmail.com.
+
 ## Technologies Used
-{ i have used some basic techniques in the following technologies HTML CSS and JavaScript}
+ i have used some basic techniques in the following technologies HTML CSS and JavaScript
+ 
 ## Support and contact details
-{If you run in to any problems while reading my code or you find any unknown bugs in it contact me using my email johnkojo7777@gmail.com .}
+If you run in to any problems while reading my code or you find any unknown bugs in it contact me using my email johnkojo7777@gmail.com .
+
 ### License
-*{
+*
 Copyright (c) [2019] [Adano Godana]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -40,5 +46,5 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.}*
+SOFTWARE.
 Copyright (c) {2019} **{Adano Godana}**
